@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding-bottom: 120px;
+}
+
+h1 {
+  font-family: 'Ysabeau Office', sans-serif;
+}
+
+.footer, .description {
+  font-family: 'Ysabeau Office', 'Noto Sans TC', sans-serif;
+  padding: 0 10px;
+}
+.footer, .footer a, .footer a:visited, .footer a:active {
+  font-size: .8em;
+  color: #333;
+}
+
+/* header */
+.header img {
+  height: 80px;
+  vertical-align: middle;
+  /* transform: translateX(-30px); */
+  margin-left: -50px;
+  margin-right: 10px;
+}
+
+#image1 {
+  width: 100%;
+}
+
+#image2 {
+  width: 100%;
+}
+
+#image10 {
+  width: calc(100% - 20px);
+}
+
+#image10_wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+#text_Privacy {
+  margin: 0 auto;
+  font-family: 'Ysabeau Office', 'Noto Sans TC', sans-serif;
+}
+
+.text-h-center {
+  text-align: center;
+}
